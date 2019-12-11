@@ -34,5 +34,5 @@ Here is how to use the praiseme package
 
 ```{r example}
 library(praiseme)
-praise("Nick")
+praise("John")
 ```

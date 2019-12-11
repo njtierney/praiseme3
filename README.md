@@ -24,6 +24,6 @@ Here is how to use the praiseme package
 
 ``` r
 library(praiseme)
-praise("Nick")
-#> You're the best, Nick!
+praise("John")
+#> You're the best, John!
 ```
