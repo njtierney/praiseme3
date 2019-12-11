@@ -8,7 +8,7 @@ Authors@R:
            email = "nicholas.tierney@gmail.com",
            comment = c(ORCID = "https://orcid.org/0000-0003-1460-8722"))
 Description: Delivering praise is an important part of a journey into writing 
-    code. For reals.
+    code. Because it is nice to give praise.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Language: es
