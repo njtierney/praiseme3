@@ -7,7 +7,7 @@
 
 <!-- badges: end -->
 
-The goal of praiseme is to deliver praise\!
+The goal of praiseme is to give praise to specific people\!
 
 ## Installation
 
